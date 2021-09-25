@@ -8,6 +8,6 @@ class MajorityElement {
             holder[n] = holder.getOrDefault(n, 0) + 1
         }
 
-        return holder.maxBy { entry -> entry.value }!!.key
+        return holder.maxByOrNull { entry: Map.Entry<Int, Int> -> entry.value }!!.key
     }
 }

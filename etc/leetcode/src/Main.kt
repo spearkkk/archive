@@ -40,5 +40,5 @@ fun main() {
 //    rootLeftRight.left = rootLeftRightLeft
 //    rootLeftRight.right = rootLeftRightRight
 
-    println(NumberComplement().findComplement(2147483647))
+    println(TeemoAttacking().findPoisonedDuration(intArrayOf(1, 2), 2))
 }
