@@ -40,5 +40,5 @@ fun main() {
 //    rootLeftRight.left = rootLeftRightLeft
 //    rootLeftRight.right = rootLeftRightRight
 
-    println(TeemoAttacking().findPoisonedDuration(intArrayOf(1, 2), 2))
+    println(ValidPerfectSquare().isPerfectSquare(4))
 }
