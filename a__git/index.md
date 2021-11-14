@@ -1,5 +1,7 @@
 # Git
-Git(깃)은 version control system(VSC)이다.
+Git(깃)은 version control system(VSC)이다. Git을 통해서 소스 코드를 관리할 수 있다.  
+소스 코드 관리를 통해 협업을 용이하게 하고 시스템을 유지보수 및 배포하는데 활용한다.  
+특히 git의 브랜치 정책에 따라 관리하는 방법이 다양하다. 아래의 git flow를 참고하자.  
 
 ## Git Flow
 * git: feature, develop, release, hotfix, master 
