@@ -18,8 +18,11 @@ class JumpGameII {
         val goal: Int = nums.size - 1
 
         if ((maximum + current) >= goal) {
+            // can jump to last index(goal)
             tried[current] = 1
         } else {
+            // cannot jump to last index(goal)
+            // find minimum jump site and jump(+1)
             tried[current] = ((1 .. maximum).map { current + it }.filter { it < tried.size }.map { tried[it] }.minOrNull() ?: 10001) + 1
         }
         return doJumping(current - 1, tried, nums)
