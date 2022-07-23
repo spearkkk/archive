@@ -165,7 +165,8 @@
 ![quick_sort](./quick-sort.gif)[^1]
 
 ## Heap Sort
-- 주어진 값으로 힙 구조를 만든다.
+
+데이터를 먼저 [Heap](../../b__data-structure/d__heap/README.md) 구조로 만든다.
 
 ---
 
