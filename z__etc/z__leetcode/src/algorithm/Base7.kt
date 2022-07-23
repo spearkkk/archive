@@ -1,6 +1,6 @@
 package algorithm
 
-class AddDigits {
+class Base7 {
 
     fun convertToBase7(num: Int): String {
         val flg = num < 0
