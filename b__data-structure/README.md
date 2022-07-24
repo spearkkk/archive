@@ -1,3 +1,7 @@
+[Previous](../a__git/README.md) - [Next](../c__algorithm/README.md)
+
+---
+
 # Data Structure
 * Array
 * Stack & Queue
@@ -7,3 +11,7 @@
 * Priority Queue
 * Hash Table
 * Map
+
+---
+
+[Previous](../a__git/README.md) - [Next](../c__algorithm/README.md)

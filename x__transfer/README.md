@@ -1,3 +1,52 @@
+[Previous](../e__language/README.md) - [Next](../z__etc/README.md)
+
+---
+
+# Transfer
+
+## Interview Question
+1. IOC / DI란
+2. 인터페이스로 추상화하고 impl 구현체가 있는데 왜 추상화였나?
+3. java 8 관련 기능 설명
+4. Spring 주요 특징들 설명
+5. OOP란?
+6. 자바 메모리 영역에 대해 설명
+7. 인터페이스가 뭘까? 왜 사용하나요? 추상클래스와의 차이점?
+8. jdbc가 무엇인지 설명
+9. 직렬화란 무엇인지 설명
+10. serialVersionUID 란 무엇일까요?
+11. 리플렉션이 무엇인지 말해주세요
+12. 자바 클래스 멤버변수 초기화 순서에 대해 설명
+13. 제네릭이란 무엇인지 말해주세요
+14. 컬렉션 클래스에 제네릭을 사용하는 이유를 말해주세요.
+15. 박싱과 언박싱에 대해 설명해주세요.
+16. 데드락이 무엇이고, 발생하는 경우, 해결 방법을 말해주세요.
+17. 상속과 컴포지션(합성)의 차이에 대해 설명
+18. JVM이 무엇이고 하는 역할이 무엇인지
+19. interface랑 abstract 비교해서 설명
+20. 다형성에 대해서 설명
+21. spring mvc
+22. spring aop
+23. spring di
+24. mvc1, mvc2 패턴의 차이
+25. spring filter interceptor aop특징과 차이에 대해 말해주세요
+26. spring vs spring boot
+27. spring mvc 구조 흐름에 대해 상세히 말해주세요.
+28. DAO/DTO/VO의 차이
+29. DB 무결성이란, 왜 필요한가?
+30. DB transaction isolation level 
+31. spring transaction
+32. spring transaction propagation level
+33. 로깅 단위를 크게 또는 작게 할 떄의 차이점 및 문제점은? 해결방안은?
+34. 웹서버랑 애플리케이션 서버의 차이점
+35. 라이브 운영 이슈 중 생각나는 것 말해주세요 -> 카프카 버전 이슈
+36. Jquery?
+37. DB 구조 설계해본 경험과 유의사항에 대해 말해주세요.
+38. 애플리케이션 아키텍트 수행 경험을 말해주세요
+
+
+---
+
 다른 조직과의 도메인이 겹침
 해당 조직이 성장하고 현재 우리 도메인까지 넘어옴
 협업을 할 줄 알았으나, 해당 조직 내에서 자체적으로 진행
@@ -94,3 +143,5 @@ DA 카탈로그를 만들고 이벤트로 보냄
 데이터가 이렇게 뻗어 버릴 경우, 재발행 하기보다는 그냥 무시해버리는 경우가 종종있었다.
 
 ---
+
+[Previous](../e__language/README.md) - [Next](../z__etc/README.md)

@@ -1,3 +1,7 @@
+[Previous](../README.md) - [Next](../b__data-structure/README.md)
+
+---
+
 # Git
 Git(깃)은 version control system(VSC)이다. Git을 통해서 소스 코드를 관리할 수 있다.  
 소스 코드 관리를 통해 협업을 용이하게 하고 시스템을 유지보수 및 배포하는데 활용한다.  
@@ -14,3 +18,7 @@ ref.)
 ## Trunk Based Development
 ref.)
 - [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+
+---
+
+[Previous](../README.md) - [Next](../b__data-structure/README.md) 
