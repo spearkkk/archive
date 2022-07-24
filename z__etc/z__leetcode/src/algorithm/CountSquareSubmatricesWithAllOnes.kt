@@ -1,7 +1,7 @@
 package algorithm
 
+/// https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 class CountSquareSubmatricesWithAllOnes {
-
     fun countSquares(matrix: Array<IntArray>): Int {
         /**
          * 새롭게 매트릭스 생성한다.
