@@ -4,7 +4,8 @@
 
 # ETC
 1. [shell](./a__shell/index.md)
-2. leetcode
+2. [About My Mac](https://github.com/spearkkk/about-my-mac)
+3. [Alfred Workflow](https://github.com/spearkkk/alfred-workflow)
 
 ---
 
