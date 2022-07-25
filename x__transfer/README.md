@@ -5,8 +5,6 @@
 # Transfer
 
 ## Interview Question
-1. IOC / DI란
-2. 인터페이스로 추상화하고 impl 구현체가 있는데 왜 추상화였나?
 3. java 8 관련 기능 설명
 4. Spring 주요 특징들 설명
 5. OOP란?
@@ -25,13 +23,8 @@
 18. JVM이 무엇이고 하는 역할이 무엇인지
 19. interface랑 abstract 비교해서 설명
 20. 다형성에 대해서 설명
-21. spring mvc
-22. spring aop
-23. spring di
-24. mvc1, mvc2 패턴의 차이
 25. spring filter interceptor aop특징과 차이에 대해 말해주세요
-26. spring vs spring boot
-27. spring mvc 구조 흐름에 대해 상세히 말해주세요.
+27. 
 28. DAO/DTO/VO의 차이
 29. DB 무결성이란, 왜 필요한가?
 30. DB transaction isolation level 
