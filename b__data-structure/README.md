@@ -3,11 +3,11 @@
 ---
 
 # Data Structure
-* Array
-* Stack & Queue
-* List
-* [Heap](./d__heap/README.md)
-* Tree
+* [Array](./a__array/README.md)
+* [Stack & Queue](./b__stack_queue/README.md)
+* [List](./c__list/README.md)
+* [Tree](./d__tree/README.md)
+* [Heap](x__heap/README.md)
 * Priority Queue
 * Hash Table
 * Map

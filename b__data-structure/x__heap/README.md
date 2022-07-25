@@ -1,4 +1,7 @@
-[back](../README.md)
+[Data Structure](../README.md)
+[Array](../a__array/README.md) - [Stack & Queue](./README.md) - [List](../c__list/README.md) - [Heap](../x__heap/README.md)
+
+---
 
 # Heap
 
@@ -37,3 +40,7 @@ Max heap은 부모 노드의 값이 자식 노드들 값보다 크게 만드는 
 2. 스위치 한 후, 맨 마지막 노드를 drop한다.
 3. 이후 heapify를 진행한다.
 
+---
+
+[Array](../a__array/README.md) - [Stack & Queue](./README.md) - [List](../c__list/README.md) - [Heap](../x__heap/README.md)  
+[Data Structure](../README.md)  

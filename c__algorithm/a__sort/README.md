@@ -166,7 +166,7 @@
 
 ## Heap Sort
 
-데이터를 먼저 [Heap](../../b__data-structure/d__heap/README.md) 구조로 만든다.
+데이터를 먼저 [Heap](../../b__data-structure/x__heap/README.md) 구조로 만든다.
 
 ---
 
