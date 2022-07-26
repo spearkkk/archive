@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution42584 {
     public int[] solution(int[] prices) {
         /**
          * 1, 2, 3, 2, 3

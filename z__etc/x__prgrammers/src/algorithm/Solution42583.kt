@@ -1,6 +1,6 @@
 import java.util.*
 
-class Solution {
+class Solution42583 {
     fun solution(bridge_length: Int, weight: Int, truck_weights: IntArray): Int {
 
         val bridge = LinkedList((0 until bridge_length).map { 0 }.toMutableList())
