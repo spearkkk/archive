@@ -4,7 +4,11 @@
 
 # Design Pattern
 - [MVC Pattern](./a__mvc-pattern/README.md)
-- Singleton(싱크톤) Pattern
+- [Template Pattern](./b__template-pattern/README.md)
+- [Strategy Pattern](./c__strategy_pattern/README.md)
+- [Singleton Pattern]()
+- [Factory Pattern]()
+- [Observer Pattern]()
 
 ---
 

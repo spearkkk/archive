@@ -1,5 +1,5 @@
 [Design Pattern](../README.md)  
-[MVC Pattern](./README.md)  
+[MVC Pattern](./README.md) - [Template Pattern](../b__template-pattern/README.md) - [Strategy Pattern](../c__strategy_pattern/README.md)  
 
 ---
 
@@ -20,5 +20,5 @@ MVC는 Model, View, Controller의 약자이다. MVC 패턴은 이 model, view, c
 
 ---
 
-[MVC Pattern](./README.md)  
+[MVC Pattern](./README.md) - [Template Pattern](../b__template-pattern/README.md) - [Strategy Pattern](../c__strategy_pattern/README.md)  
 [Design Pattern](../README.md)    
