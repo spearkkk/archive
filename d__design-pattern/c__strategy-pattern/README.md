@@ -1,5 +1,5 @@
 [Design Pattern](../README.md)
-[MVC Pattern](../a__mvc-pattern/README.md) - [Template Pattern](../b__template-pattern/README.md)  - [Strategy Pattern](./README.md)
+[MVC Pattern](../a__mvc-pattern/README.md) - [Template Pattern](../b__template-pattern/README.md) - [Strategy Pattern](./README.md) - [Template Callback](../d__template-callback-pattern/README.md)
 
 ---
 
@@ -12,5 +12,5 @@
 
 ---
 
-[MVC Pattern](../a__mvc-pattern/README.md) - [Template Pattern](../b__template-pattern/README.md)  - [Strategy Pattern](./README.md)    
+[MVC Pattern](../a__mvc-pattern/README.md) - [Template Pattern](../b__template-pattern/README.md) - [Strategy Pattern](./README.md) - [Template Callback](../d__template-callback-pattern/README.md)    
 [Design Pattern](../README.md)

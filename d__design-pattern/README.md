@@ -5,7 +5,10 @@
 # Design Pattern
 - [MVC Pattern](./a__mvc-pattern/README.md)
 - [Template Pattern](./b__template-pattern/README.md)
-- [Strategy Pattern](./c__strategy_pattern/README.md)
+- [Strategy Pattern](c__strategy-pattern/README.md)
+- [Template Strategy Pattern](d__template-callback-pattern/README.md)
+- [Proxy Pattern]()
+- [Decorator Pattern]()
 - [Singleton Pattern]()
 - [Factory Pattern]()
 - [Observer Pattern]()
