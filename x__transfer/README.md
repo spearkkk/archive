@@ -23,20 +23,43 @@
 18. JVM이 무엇이고 하는 역할이 무엇인지
 19. interface랑 abstract 비교해서 설명
 20. 다형성에 대해서 설명
-25. spring filter interceptor aop특징과 차이에 대해 말해주세요
-27. 
-28. DAO/DTO/VO의 차이
-29. DB 무결성이란, 왜 필요한가?
-30. DB transaction isolation level 
-31. spring transaction
-32. spring transaction propagation level
-33. 로깅 단위를 크게 또는 작게 할 떄의 차이점 및 문제점은? 해결방안은?
-34. 웹서버랑 애플리케이션 서버의 차이점
-35. 라이브 운영 이슈 중 생각나는 것 말해주세요 -> 카프카 버전 이슈
-36. Jquery?
-37. DB 구조 설계해본 경험과 유의사항에 대해 말해주세요.
-38. 애플리케이션 아키텍트 수행 경험을 말해주세요
+21. spring filter interceptor aop특징과 차이에 대해 말해주세요
+22. 
+23. DAO/DTO/VO의 차이
+24. DB 무결성이란, 왜 필요한가?
+25. DB transaction isolation level 
+26. spring transaction
+27. spring transaction propagation level
+28. 로깅 단위를 크게 또는 작게 할 떄의 차이점 및 문제점은? 해결방안은?
+29. 웹서버랑 애플리케이션 서버의 차이점
+30. 라이브 운영 이슈 중 생각나는 것 말해주세요 -> 카프카 버전 이슈
+31. Jquery?
+32. DB 구조 설계해본 경험과 유의사항에 대해 말해주세요.
+33. 애플리케이션 아키텍트 수행 경험을 말해주세요
 
+---
+1. ElasticSearch의 키워드 검색과 RDBMS에서 %LIKE% 검색의 차이점
+2. RDBMS에서 INDEX가 어떻게 구성되어 있는지?
+3. Java에서 Mutable vs Immutable 객체의 차이점
+4. 주로 Java 무슨 버전 쓰는지? Java8에서 새로 추가된 것들은 어떤 것이 있는지?
+5. 클라이언트의 요청이 들어올때마다 Thread가 생성되고 Controller에 요청을 할텐데 어떻게 1개의 Controller만으로 요청들을 다 처리할 수 있는지? (Singleton 에 대해 여쭤보신 것 같았다.)- 서버가 실행되고 Controller는 Spring Beans에 담겨있어 Client Thread의 요청이 들어오면 Controller객체를 새로 생성하지 않고 Spring Beans Container에서 꺼내쓰는 구조라고 대답했던 것 같다.
+https://wise-develop.tistory.com/7
+---
+기본 전공 지식 (전공자인 경우)
+컴퓨터공학 기초 - 운영체제, 네트워크, 자료구조, 알고리즘
+운영체제: 스레드, 프로세스
+네트워크: 7 레이어, 프로토콜
+자료구조: 자료구조들의 특징과 어떤 때에 쓰이는지 예시들
+알고리즘: 기본적인 정렬, 탐색 알고리즘과 복잡도
+
+
+지원한 공고 특화 지식 (나의 경우 - 서버 백엔드)
+
+Java Virtual Machine (JVM): 메모리구조, 실행엔진, 클래스로더, GC 알고리즘
+HTTP method, RESTful, 원격 호출(RMI)
+Spring Framework 핵심 개념 - POJO, IoC/DI, AOP, PSA
+자신이 실무에서 사용해본 디자인 패턴들
+JDBC
 
 ---
 
